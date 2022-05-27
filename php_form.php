@@ -19,10 +19,13 @@
     Email: <input type="email" name="useremail">
 </label><br>
 <label for="date of birth">
-    Date of Birth: <input type="text" name="date of birth">
+    Date of Birth: <input type="text" name="dateofbirth">
 </label><br>
 <label for="gender">
-    Gender: <input type="text" name="gender">
+Gender:
+ <input type="radio" name="gender" value="female">Female
+  <input type="radio" name="gender" value="male">Male
+  <input type="radio" name="gender" value="other">Other
 </label><br>
 <label for="Country">
     Country: <input type="text" name="Country">

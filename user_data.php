@@ -1,7 +1,7 @@
 <?php
 $name = $_POST["name"];
 $email = $_POST["useremail"];
-$date  = $_POST["date of birth"];
+$date  = $_POST["dateofbirth"];
 $gender = $_POST["gender"];
 $country = $_POST["Country"];
 
