@@ -1,9 +1,4 @@
 <?php
-$name = $_POST["name"];
-$email = $_POST["useremail"];
-$date  = $_POST["dateofbirth"];
-$gender = $_POST["gender"];
-$country = $_POST["Country"];
 
 $userdata =  $_POST;
 $data = implode(" ", $userdata);
